@@ -1,7 +1,7 @@
 # 911 Calls - Capstone Project
-This is a project for practicing data analysis using Python. This project is part of a series of practical exercises in the Python for Data Science and Machine Learning Bootcamp course. 
+The dataset contains the 911 emergency calls which made throughout the time of year with reasons and addresses from where the incidents happened in different part of USA locations. The dataset used for data analysis and visualization of the reports based on different sceneraions and use cases.
 
-This capstone project consist in data manipulation and visualization using very known python libraries. 
+The project is developed on Jupyter Notebook using python libraries Numpy, Pandas with Matplotlib and Seaborn data visualization libraries.
 
 
 ## Steps
